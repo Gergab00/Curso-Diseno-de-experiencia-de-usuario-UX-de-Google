@@ -1,4 +1,4 @@
-![Glosario](../img/glosario.jpg)
+![Glosario](/img/glosario.jpg)
 
 ## A
 

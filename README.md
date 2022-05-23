@@ -112,4 +112,4 @@ La fase Comprender, ayuda a un equipo a tener una mejor idea del desafío de dis
 
 ## Glosario
 
-[Ir al Glosario](../Glosario.md)
+[Ir al Glosario](/Glosario.md)
