@@ -26,6 +26,8 @@ ___Definir:___ la fase de Design Thinking que implica aprovechar los conocimient
 
 ___Design Thinking:___ un marco de diseño de UX que se centra en el usuario a lo largo de las cinco fases: empatizar, definir, idear, crear prototipos y probar.
 
+___Design Sprint:___ un proceso de tiempo limitado, con cinco fases típicamente repartidas en cinco días completos de 8 horas. El objetivo de los sprints de diseño es responder preguntas comerciales críticas a través del diseño, la creación de prototipos y la prueba de ideas con los usuarios.
+
 ___Diseñador en forma de T:___ un diseñador que se especializa en un tipo de experiencia del usuario (por ejemplo, interacción, visual, movimiento) y tiene un amplio conocimiento en otras áreas.
 
 ___Diseñadores de interacción:___ centrarse en diseñar la experiencia de un producto y cómo funciona.
@@ -59,6 +61,7 @@ ___Especialista:___ un diseñador que profundiza en un tipo particular de experi
 ___Freelancers:___ diseñadores que trabajan por su cuenta y comercializan sus servicios a empresas para encontrar clientes.
 
 ## G
+
 ___Generalista:___ un diseñador de UX con un amplio número de responsabilidades
 
 ## I
@@ -90,6 +93,7 @@ ___Marco de referencia:___ Crea la estructura básica que enfoca y apoya el prob
 ___Modificación de color:___ funciones que aumentan el contraste de los colores en una pantalla, como el modo de alto contraste o el modo oscuro
 
 ## P
+
 ___Plataforma:___ el medio en el que los usuarios experimentan su producto
 
 ___Producto:___ Un bien, servicio o característica.
@@ -98,9 +102,15 @@ ___Prototipo:___ un modelo temprano de un producto que demuestra funcionalidad
 
 ___Prueba:___ La fase de Design Thinking que consiste en facilitar y observar las pruebas de los usuarios con sus prototipos de diseño.
 
+## R
+
+___Retrospectiva:___ una crítica colaborativa del sprint de diseño del equipo
+
 ## S
 
 ___Sesgo:___ Favorecer o tener prejuicios contra algo basado en información limitada.
+
+___Sprint Brief:___ un documento que comparte con todos sus asistentes para ayudarlos a prepararse para el sprint
 
 ___Startup:___ Una nueva empresa que quiere desarrollar un producto o servicio único y llevarlo al mercado.
 
@@ -135,3 +145,5 @@ ___Voz a texto:___ software que permite a los usuarios componer texto hablando e
 ## W
 
 ___Wireframe:___ un esquema o un boceto de un producto o una pantalla
+
+[Volver al inicio](/README.md)

@@ -37,3 +37,47 @@ Puedes pensar en tu prototipo como un experimento para probar una hipótesis. Es
 En la fase de Validación, el equipo de Design Sprint pondrá su concepto frente a los usuarios: ¡este es su momento de la verdad! Recopilará comentarios de los usuarios que interactúan con su prototipo y, si es relevante, realizará revisiones de factibilidad técnica y de las partes interesadas. Terminará su Sprint con un concepto validado o un concepto invalidado para mejorar. De cualquier manera, has progresado.
 
 ___Los sprints de diseño pueden ayudarte a concentrarte en un problema específico, convocar a las personas adecuadas y encontrar una solución.___
+
+## Reflexionar sobre el sprint de diseño.
+
+Inmediatamente después del sprint de diseño, el equipo debe realizar una retrospectiva. Una retrospectiva es una crítica colaborativa del sprint de diseño. El objetivo de una retrospectiva es asegurarte de que todos los que participaron en el sprint tengan la oportunidad de dar su opinión y pensar en formas de mejorar. 
+
+Las preguntas clave para hacer durante una retrospectiva son: 
+
+- _¿Qué salió bien?_
+
+- _¿Qué se puede mejorar?_
+
+### ¿Qué salió bien?
+
+Comienza la retrospectiva analizando las partes del sprint de diseño que tuvieron éxito y las áreas en las que el equipo estuvo bien. Quizás se creó un nuevo proceso que podría aplicarse a futuros sprints. O tal vez la incorporación de una nueva herramienta digital mejoró la productividad del equipo. Analiza lo que el equipo hizo bien y piensa cómo podría aplicarse a futuros sprints.
+
+Las preguntas que podrías hacer durante esta parte de la retrospectiva incluyen:
+
+- _¿Qué herramientas te ahorraron más tiempo y esfuerzo?_
+
+- _¿Cuándo sentiste más satisfacción?_
+
+- _¿Qué te ayudó a hacer tu mejor contribución al equipo durante el sprint?_
+
+### ¿Qué se puede mejorar?
+
+Después de resaltar todo lo que salió bien, es hora de cambiar de marcha y pensar en áreas de mejora. El equipo querrá saber qué salió mal, para que todos puedan hacerlo mejor la próxima vez. 
+
+Las preguntas que podrías hacer durante esta parte de la retrospectiva incluyen:
+
+- _¿Qué te tomó por sorpresa cuando salió mal?_
+
+- _¿Qué problemas surgieron con más frecuencia?_
+
+- _¿Cuándo crees que experimentamos el mayor desafío como equipo?_
+
+Luego, examina el resultado del sprint o el producto final y haz preguntas como:
+
+- _¿El equipo sobreestimó o subestimó el trabajo requerido para completar el diseño?_
+
+- _¿Un factor externo descarriló tu productividad?_
+
+- _Y lo más importante, ¿el diseño final resuelve de verdad el problema del usuario?_
+
+[Volver al inicio](/README.md)

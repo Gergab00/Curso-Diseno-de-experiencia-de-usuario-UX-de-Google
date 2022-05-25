@@ -107,4 +107,5 @@ Cuando los diseñadores se centran en consideraciones de accesibilidad, las defi
 ## Enlaces de Interes
 
 [Sprint de Diseño](/Designsprint.md)
+
 [Ir al Glosario](/Glosario.md)
