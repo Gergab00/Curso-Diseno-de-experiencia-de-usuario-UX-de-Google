@@ -103,13 +103,8 @@ Una forma de crear una excelente experiencia de usuario multiplataforma es asegu
 ## Accesibilidad en el diseño
 Cuando los diseñadores se centran en consideraciones de accesibilidad, las deficiencias cognitivas, visuales, motrices y auditivas son las cuatro categorías principales.
 
-## Sprint de Diseño
-El objetivo de un sprint de diseño es resolver un problema mediante el diseño, la creación de prototipos y la prueba de ideas con los usuarios. Un sprint de diseño puede responder preguntas comerciales esenciales para los desafíos de diseño.
 
-La fase Idear es cuando el equipo genera ideas y construye algo a partir de ellas. Este escenario es un ejemplo de la fase de comprensión porque se están tomando el tiempo para entender el desafío de diseño con más claridad al consultar a expertos del sector.
+## Enlaces de Interes
 
-La fase Comprender, ayuda a un equipo a tener una mejor idea del desafío de diseño, porque el equipo se toma el tiempo para participar en conversaciones con expertos del sector y aprender de ellos. Estos pasos ayudan a los miembros del equipo a comprender el desafío de diseño con mayor claridad.
-
-## Glosario
-
+[Sprint de Diseño](/Designsprint.md)
 [Ir al Glosario](/Glosario.md)
